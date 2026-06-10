@@ -1,0 +1,14 @@
+# if/elif/else test
+x = 5
+if x > 0:
+    print("positive")
+elif x < 0:
+    print("negative")
+else:
+    print("zero")
+
+# even or odd
+if x % 2 == 0:
+    print("even")
+else:
+    print("odd")
